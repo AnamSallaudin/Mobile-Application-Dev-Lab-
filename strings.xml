@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vehicle Parking Registration</string>
+    <string-array name="vehicle_types">
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Truck</item>
+    </string-array>
+</resources>
