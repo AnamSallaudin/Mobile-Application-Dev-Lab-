@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travel Ticket Booking</string>
+    <string-array name="locations_array">
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Houston</item>
+        <item>Miami</item>
+    </string-array>
+</resources>
